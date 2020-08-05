@@ -1,0 +1,23 @@
+
+
+	.intro {
+		height: 90vh;
+		position: relative;
+		color: #fff;
+	}
+
+	.intro .intro-content {
+		text-align: center;
+		position: absolute;
+	}
+
+	.intro .overlay-itro {
+		background-color: rgba(0, 0, 0, 0.6);
+		position: absolute;
+		top: 0;
+		left: 0px;
+		padding: 0;
+		height: 100%;
+		width: 100%;
+		opacity: .9;
+	}
